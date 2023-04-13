@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="146"
+   height="24"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.2808219"
+     inkscape:cx="82.660877"
+     inkscape:cy="23.367246"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <text
+     xml:space="preserve"
+     style="font-family:Skia;-inkscape-font-specification:Skia;fill:#000080;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+     x="28.258064"
+     y="11.593052"
+     id="text230"><tspan
+       sodipodi:role="line"
+       id="tspan228"
+       x="28.258064"
+       y="11.593052" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.0284px;font-family:Skia;-inkscape-font-specification:Skia;fill:#000080;stroke-width:0.695231"
+     x="22.193871"
+     y="18.395393"
+     id="text234"
+     transform="scale(0.84002137,1.1904459)"
+     inkscape:highlight-color="#89a4cb"><tspan
+       sodipodi:role="line"
+       id="tspan232"
+       x="22.193871"
+       y="18.395393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.0284px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif';stroke-width:0.695231">BLUEXERIAN</tspan></text>
+  <path
+     style="fill:#000080;stroke-width:0.448016"
+     d="M 8.5914194,9.7730624 7.2637816,7.6520832 9.7139064,5.7192773 12.284785,9.8264057 8.2289597,13.025884 4.0778999,6.3943236 9.4290019,2.1730533 14.177985,9.7598316 7.8078457,14.78498 2.057129,5.5978737 8.3940096,0.59896327 9.4385919,2.2677432 9.2630542,2.4062161"
+     id="path516" />
+  <path
+     style="fill:#000080;stroke-width:0.440752"
+     d="m 8.4535276,17.794483 -1.3540925,-2.012647 2.498946,-1.834086 2.6221079,3.897352 -4.1366435,3.036062 -4.2337744,-6.292846 5.457729,-4.005665 4.8436129,7.199275 -6.4970728,4.768484 -5.8653061,-8.717865 6.4631501,-4.7435866 1.065397,1.5835456 -0.1790355,0.1314"
+     id="path516-9" />
+</svg>
