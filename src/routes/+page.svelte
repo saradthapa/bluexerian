@@ -62,13 +62,13 @@
                             01
                         </div>
                         <h3 class="text-base font-bold md:mb-4 md:hidden">
-                            Concerts and stage management
+                            Concerts management
                         </h3>
                     </div>
                 </div>
                 <div>
                     <h3 class="hidden mb-4 text-lg font-bold md:block">
-                        Concerts and stage management
+                        Concerts management
                     </h3>
                     <p class="text-darkGrayishBlue">
                         Bluexerian brings artists of all the genres and organises the concerts to give you the authentic taste of music from their creators.
@@ -114,18 +114,17 @@
                             03
                         </div>
                         <h3 class="text-base font-bold md:mb-4 md:hidden">
-                            Everything you need in one place
+                            Event Management
                         </h3>
                     </div>
                 </div>
                 <div>
                     <h3 class="hidden mb-4 text-lg font-bold md:block">
-                        Everything you need in one place
+                        Event Management
                     </h3>
                     <p class="text-darkGrayishBlue">
-                        Stop jumping from one service to another to communicate, store
-                        files, track tasks and share documents. Manage offers an all-in
-                        one team productivity solution.
+                        Bluexerian manages events of all kinds. With the excellent event management professional staff
+                        members it provides all the services needed to manage your event. We serve with style.
                     </p>
                 </div>
             </div>
@@ -138,7 +137,7 @@
     <div class="max-w-6xl px-5 mx-auto mt-32 text-center">
         <!-- Heading -->
         <h2 class="text-4xl font-bold text-center">
-            What's different About Bluexerian?
+            What's different about Bluexerian?
         </h2>
         <!-- Testimonials Container -->
         <div class="flex flex-col mt-24 md:flex-row md:space-x-6">
@@ -147,7 +146,7 @@
                     class="flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex"
             >
                 <img src="img/avatar-anisha.png" class="w-16 -mt-14" alt=""/>
-                <h5 class="text-lg font-bold">Anisha Li</h5>
+                <h5 class="text-lg font-bold">Anisha Gurung</h5>
                 <p class="text-sm text-darkGrayishBlue">
                     “Bluexerian has organised the events wonderfully. They were successful in creating good ambience. Security arrangements and space management was superb.”
                 </p>
@@ -157,7 +156,7 @@
                     class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex"
             >
                 <img src="img/avatar-ali.png" class="w-16 -mt-14" alt=""/>
-                <h5 class="text-lg font-bold">Ali Bravo</h5>
+                <h5 class="text-lg font-bold">Binita Poudel</h5>
                 <p class="text-sm text-darkGrayishBlue">
                     “Found a perfect company for outsourcing our event management needs. I heard that they also organise cultural nights and shows. I am excited to see those.”
                 </p>
@@ -167,7 +166,7 @@
                     class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex"
             >
                 <img src="img/avatar-richard.png" class="w-16 -mt-14" alt=""/>
-                <h5 class="text-lg font-bold">Richard Watts</h5>
+                <h5 class="text-lg font-bold">Rajendra Sharma</h5>
                 <p class="text-sm text-darkGrayishBlue">
                     “They have managed the event professionally. Their support team respond timely. They brief about the event quiet frequently.”
                 </p>
@@ -206,6 +205,6 @@
 
 <style lang="postcss">
     :global(html) {
-        background-color: theme(colors.gray.100);
+        background-color: theme(colors.offWhite);
     }
 </style>
