@@ -205,6 +205,6 @@
 
 <style lang="postcss">
     :global(html) {
-        background-color: theme(colors.gray.100);
+        background-color: theme(colors.red.100);
     }
 </style>
