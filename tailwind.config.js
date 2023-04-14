@@ -62,6 +62,9 @@ export default {
         beige: '#DDC3A5',
         indigo: '#1E2761',
         scarlet: '#B85042',
+        darkGray: '#273444',
+        gray: '#8492a6',
+        lightGray: '#d3dce6',
       }
     },
   },

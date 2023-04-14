@@ -200,3 +200,11 @@
         </div>
     </div>
 </section>
+
+
+
+<style lang="postcss">
+    :global(html) {
+        background-color: theme(colors.lightGray);
+    }
+</style>
