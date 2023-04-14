@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/* tyring to change  */
 body {
     background-image: url('img/bg-tablet-pattern.svg');
     background-repeat: no-repeat;
