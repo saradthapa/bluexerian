@@ -1,6 +1,7 @@
 <script lang="ts">
     import { fly,fade } from 'svelte/transition';
     import {open} from "../stores/navigation";
+    import logo from '$lib/img/logo.svg';
     import AnimatedHamburger from "./AnimatedHamburger.svelte";
     export let click = ():void => {
         $open = !$open;
@@ -14,7 +15,7 @@
         <div class="flex items-center justify-between">
             <!-- Logo -->
             <div class="pt-2">
-                <img src="img/logo.svg" alt="logo"/>
+                <img src={logo} alt="logo"/>
             </div>
             <!-- Menu Items -->
             <div class="hidden space-x-6 md:flex">

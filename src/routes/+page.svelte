@@ -1,3 +1,9 @@
+<script lang="ts">
+    import illustrationImage from '$lib/img/illustration-intro.svg';
+    import anisha from '$lib/img/avatar-anisha.png';
+    import ali from '$lib/img/avatar-ali.png';
+    import rajendra from '$lib/img/avatar-richard.png';
+</script>
 
 <!-- Hero Section -->
 <section id="hero">
@@ -27,7 +33,7 @@
         </div>
         <!-- Image -->
         <div class="md:w-1/2">
-            <img src="img/illustration-intro.svg" alt="hero image"/>
+            <img src={illustrationImage} alt="hero image"/>
         </div>
     </div>
 </section>
@@ -145,7 +151,7 @@
             <div
                     class="flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex"
             >
-                <img src="img/avatar-anisha.png" class="w-16 -mt-14" alt=""/>
+                <img src={anisha} class="w-16 -mt-14" alt=""/>
                 <h5 class="text-lg font-bold">Anisha Gurung</h5>
                 <p class="text-sm text-darkGrayishBlue">
                     “Bluexerian has organised the events wonderfully. They were successful in creating good ambience. Security arrangements and space management was superb.”
@@ -155,7 +161,7 @@
             <div
                     class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex"
             >
-                <img src="img/avatar-ali.png" class="w-16 -mt-14" alt=""/>
+                <img src={ali} class="w-16 -mt-14" alt=""/>
                 <h5 class="text-lg font-bold">Binita Poudel</h5>
                 <p class="text-sm text-darkGrayishBlue">
                     “Found a perfect company for outsourcing our event management needs. I heard that they also organise cultural nights and shows. I am excited to see those.”
@@ -165,7 +171,7 @@
             <div
                     class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex"
             >
-                <img src="img/avatar-richard.png" class="w-16 -mt-14" alt=""/>
+                <img src={rajendra} class="w-16 -mt-14" alt=""/>
                 <h5 class="text-lg font-bold">Rajendra Sharma</h5>
                 <p class="text-sm text-darkGrayishBlue">
                     “They have managed the event professionally. Their support team respond timely. They brief about the event quiet frequently.”

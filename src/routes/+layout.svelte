@@ -12,14 +12,14 @@
 
 <style lang="postcss">
 	:global(body) {
-		background-image: url('img/bg-tablet-pattern.svg');
+		background-image: url('$lib/img/bg-tablet-pattern.svg');
 		background-repeat: no-repeat;
 		background-size: 800px;
 		background-position: 90% -25%;
 	}
 
 	:global(#cta) {
-		background-image: url('img/bg-simplify-section-desktop.svg');
+		background-image: url('$lib/img/bg-simplify-section-desktop.svg');
 		background-repeat: no-repeat;
 	}
 
@@ -30,7 +30,7 @@
 		}
 
 		:global(#cta) {
-			background-image: url('img/bg-simplify-section-mobile.svg');
+			background-image: url('$lib/img/bg-simplify-section-mobile.svg');
 		}
 	}
 </style>

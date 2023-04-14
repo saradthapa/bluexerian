@@ -1,3 +1,10 @@
+<script lang="ts">
+    import logoWhite from '$lib/img/logo-white.svg';
+    import iconFacebook from '$lib/img/icon-facebook.svg';
+    import iconTwitter from '$lib/img/icon-twitter.svg';
+    import iconYoutube from '$lib/img/icon-youtube.svg';
+    import iconInstagram from '$lib/img/icon-instagram.svg';
+</script>
 <!-- Footer -->
 <footer class="bg-veryDarkBlue">
     <div class="container flex flex-col-reverse justify-between px-6 py-10 mx-auto space-y-8 md:flex-row md:space-y-0">
@@ -9,22 +16,22 @@
             </div>
             <!-- Logo -->
             <div>
-                <img src="img/logo-white.svg" class="h-8" alt=""/>
+                <img src={logoWhite} class="h-8" alt=""/>
             </div>
             <!-- Social Links Container-->
             <div class="flex justify-center space-x-4">
                 <!-- Link 1-->
                 <a href="#">
-                    <img src="img/icon-facebook.svg" alt="" class="h-8"/>
+                    <img src={iconFacebook} alt="" class="h-8"/>
                 </a>
                 <a href="#">
-                    <img src="img/icon-twitter.svg" alt="" class="h-8"/>
+                    <img src={iconTwitter} alt="" class="h-8"/>
                 </a>
                 <a href="#">
-                    <img src="img/icon-youtube.svg" alt="" class="h-8"/>
+                    <img src={iconYoutube} alt="" class="h-8"/>
                 </a>
                 <a href="#">
-                    <img src="img/icon-instagram.svg" alt="" class="h-8"/>
+                    <img src={iconInstagram} alt="" class="h-8"/>
                 </a>
             </div>
         </div>
